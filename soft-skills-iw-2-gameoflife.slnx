@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="soft-skills-iw-2-gameoflife.vcxproj" />
+  <Project Path="soft-skills-iw-2-gameoflife.vcxproj" Id="ad329179-a992-4e4c-bf2c-c10fa0f4352a" />
 </Solution>
